@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-22T18:33:55Z" name="Load Department" finished-at="2020-04-22T18:33:55Z" duration-ms="179">
+    <groups>
+    </groups>
+    <test started-at="2020-04-22T18:33:55Z" name="Car Loan" finished-at="2020-04-22T18:33:55Z" duration-ms="74">
+      <class name="TestNG.Practice2">
+        <test-method signature="test1()[pri:0, instance:TestNG.Practice2@bcec361]" started-at="2020-04-23T00:03:55Z" name="test1" finished-at="2020-04-23T00:03:55Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNG.Practice2@bcec361]" started-at="2020-04-23T00:03:55Z" name="test2" finished-at="2020-04-23T00:03:55Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestNG.Practice2@bcec361]" started-at="2020-04-23T00:03:55Z" name="test3" finished-at="2020-04-23T00:03:55Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNG.Practice2 -->
+      <class name="TestNG.Practice">
+        <test-method signature="test1()[pri:0, instance:TestNG.Practice@6ed3ccb2]" started-at="2020-04-23T00:03:55Z" name="test1" finished-at="2020-04-23T00:03:55Z" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNG.Practice@6ed3ccb2]" started-at="2020-04-23T00:03:55Z" name="test2" finished-at="2020-04-23T00:03:55Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestNG.Practice@6ed3ccb2]" started-at="2020-04-23T00:03:55Z" name="test3" finished-at="2020-04-23T00:03:55Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNG.Practice -->
+    </test> <!-- Car Loan -->
+    <test started-at="2020-04-22T18:33:55Z" name="Home Loan" finished-at="2020-04-22T18:33:55Z" duration-ms="28">
+      <class name="TestNG.Practice4">
+        <test-method signature="test1()[pri:0, instance:TestNG.Practice4@2df3b89c]" started-at="2020-04-23T00:03:55Z" name="test1" finished-at="2020-04-23T00:03:55Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNG.Practice4@2df3b89c]" started-at="2020-04-23T00:03:55Z" name="test2" finished-at="2020-04-23T00:03:55Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestNG.Practice4@2df3b89c]" started-at="2020-04-23T00:03:55Z" name="test3" finished-at="2020-04-23T00:03:55Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNG.Practice4 -->
+      <class name="TestNG.Practice3">
+        <test-method signature="test1()[pri:0, instance:TestNG.Practice3@23348b5d]" started-at="2020-04-23T00:03:55Z" name="test1" finished-at="2020-04-23T00:03:55Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:TestNG.Practice3@23348b5d]" started-at="2020-04-23T00:03:55Z" name="test2" finished-at="2020-04-23T00:03:55Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:TestNG.Practice3@23348b5d]" started-at="2020-04-23T00:03:55Z" name="test3" finished-at="2020-04-23T00:03:55Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNG.Practice3 -->
+    </test> <!-- Home Loan -->
+  </suite> <!-- Load Department -->
+</testng-results>
